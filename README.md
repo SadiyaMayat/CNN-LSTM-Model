@@ -6,9 +6,9 @@ This Repository demonstrates video recognition using a Convolutional Long Short-
 A CNN-LSTM model combines Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. CNNs are used to extract spatial features from video frames, while LSTMs capture temporal dependencies. This architecture is effective for tasks involving spatiotemporal data, such as video recognition and action classification.
 
 **Applications of CNN-LSTM:**
-* Video Classification: Recognizing actions or events in video sequences.
-* Human Activity Recognition: Identifying activities from video data, useful in surveillance and healthcare.
-* Gesture Recognition: Interpreting gestures in video streams for human-computer interaction.
+* **Video Classification:** Recognizing actions or events in video sequences.
+* **Human Activity Recognition:** Identifying activities from video data, useful in surveillance and healthcare.
+* **Gesture Recognition:** Interpreting gestures in video streams for human-computer interaction.
 
 ### Dataset
 The UCF50 dataset consists of 50 action categories and is widely used for action recognition tasks. Each category contains a collection of videos showing various actions. For more details, 
