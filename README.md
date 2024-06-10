@@ -27,3 +27,4 @@ Download the UCF50 dataset from the following URL:
 ### References
 * https://medium.com/@jaykumaran2217/action-recognition-ucf101-using-lstm-and-cnn-cnn-lstm-ef3e55075f90
 * [[CNN-LSTM Networks](https://www.youtube.com/watch?v=QmtSkq3DYko)](https://youtu.be/QmtSkq3DYko?si=Y3frChrKFD7S1hr8)
+* Deep learning for Computer Vision - By Rajalingappa Shanmugamani
